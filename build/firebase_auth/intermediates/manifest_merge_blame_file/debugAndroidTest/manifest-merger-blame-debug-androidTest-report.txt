@@ -1,0 +1,196 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.firebase.auth.test" >
+4
+5    <uses-sdk
+5-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:5:15-41
+7        android:targetSdkVersion="19" />
+7-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:11:5-15:87
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:13:22-53
+13        android:label="Tests for io.flutter.plugins.firebase.auth.test"
+13-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:15:22-85
+14        android:targetPackage="io.flutter.plugins.firebase.auth.test" />
+14-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:12:22-83
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:25:5-67
+16-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:25:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:26:5-79
+17-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:26:22-76
+18
+19    <application
+19-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:7:5-9:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.6.0] /Users/julianabotelho/.gradle/caches/transforms-3/05c3c8fe5ab1cbc1714b5db4e3f9e6d6/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="true" >
+23        <uses-library android:name="android.test.runner" />
+23-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:8:9-60
+23-->/Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest862136050055360356.xml:8:23-57
+24
+25        <service
+25-->[:firebase_auth] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+26            android:name="com.google.firebase.components.ComponentDiscoveryService"
+26-->[:firebase_auth] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:8:18-89
+27            android:directBootAware="true"
+27-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+28            android:exported="false" >
+28-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:68:13-37
+29            <meta-data
+29-->[:firebase_auth] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+30                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
+30-->[:firebase_auth] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
+31                android:value="com.google.firebase.components.ComponentRegistrar" />
+31-->[:firebase_auth] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+32            <meta-data
+32-->[:firebase_core] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+33                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+33-->[:firebase_core] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
+34                android:value="com.google.firebase.components.ComponentRegistrar" />
+34-->[:firebase_core] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+35            <meta-data
+35-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:69:13-71:85
+36                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+36-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:70:17-109
+37                android:value="com.google.firebase.components.ComponentRegistrar" />
+37-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:71:17-82
+38            <meta-data
+38-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/5ececaf99a56309c75b4d818b248a899/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+39                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+39-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/5ececaf99a56309c75b4d818b248a899/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+40                android:value="com.google.firebase.components.ComponentRegistrar" />
+40-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/5ececaf99a56309c75b4d818b248a899/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+41            <meta-data
+41-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+42                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+42-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+43                android:value="com.google.firebase.components.ComponentRegistrar" />
+43-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+44        </service>
+45
+46        <activity
+46-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:29:9-46:20
+47            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+47-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:30:13-80
+48            android:excludeFromRecents="true"
+48-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:31:13-46
+49            android:exported="true"
+49-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:32:13-36
+50            android:launchMode="singleTask"
+50-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:33:13-44
+51            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+51-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:34:13-72
+52            <intent-filter>
+52-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:35:13-45:29
+53                <action android:name="android.intent.action.VIEW" />
+53-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:36:17-69
+53-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:36:25-66
+54
+55                <category android:name="android.intent.category.DEFAULT" />
+55-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:38:17-76
+55-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:38:27-73
+56                <category android:name="android.intent.category.BROWSABLE" />
+56-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:39:17-78
+56-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:39:27-75
+57
+58                <data
+58-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:41:17-44:51
+59                    android:host="firebase.auth"
+59-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:42:21-49
+60                    android:path="/"
+60-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:43:21-37
+61                    android:scheme="genericidp" />
+61-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:44:21-48
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:47:9-64:20
+65            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+65-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:48:13-79
+66            android:excludeFromRecents="true"
+66-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:49:13-46
+67            android:exported="true"
+67-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:50:13-36
+68            android:launchMode="singleTask"
+68-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:51:13-44
+69            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+69-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:52:13-72
+70            <intent-filter>
+70-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:53:13-63:29
+71                <action android:name="android.intent.action.VIEW" />
+71-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:36:17-69
+71-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:36:25-66
+72
+73                <category android:name="android.intent.category.DEFAULT" />
+73-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:38:17-76
+73-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:38:27-73
+74                <category android:name="android.intent.category.BROWSABLE" />
+74-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:39:17-78
+74-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:39:27-75
+75
+76                <data
+76-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:41:17-44:51
+77                    android:host="firebase.auth"
+77-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:42:21-49
+78                    android:path="/"
+78-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:43:21-37
+79                    android:scheme="recaptcha" />
+79-->[com.google.firebase:firebase-auth:22.2.0] /Users/julianabotelho/.gradle/caches/transforms-3/5055ec7913d8026547c236987a9fb189/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:44:21-48
+80            </intent-filter>
+81        </activity>
+82
+83        <provider
+83-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+84            android:name="com.google.firebase.provider.FirebaseInitProvider"
+84-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+85            android:authorities="io.flutter.plugins.firebase.auth.test.firebaseinitprovider"
+85-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+86            android:directBootAware="true"
+86-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+87            android:exported="false"
+87-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+88            android:initOrder="100" />
+88-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+89
+90        <uses-library
+90-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+91            android:name="androidx.window.extensions"
+91-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+92            android:required="false" />
+92-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+93        <uses-library
+93-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+94            android:name="androidx.window.sidecar"
+94-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+95            android:required="false" />
+95-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+96
+97        <activity
+97-->[com.google.android.gms:play-services-base:18.0.1] /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+98            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+98-->[com.google.android.gms:play-services-base:18.0.1] /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+99            android:exported="false"
+99-->[com.google.android.gms:play-services-base:18.0.1] /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+100            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+100-->[com.google.android.gms:play-services-base:18.0.1] /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+101
+102        <meta-data
+102-->[com.google.android.gms:play-services-basement:18.1.0] /Users/julianabotelho/.gradle/caches/transforms-3/16d349276fb68a0400bc260c17a97f21/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+103            android:name="com.google.android.gms.version"
+103-->[com.google.android.gms:play-services-basement:18.1.0] /Users/julianabotelho/.gradle/caches/transforms-3/16d349276fb68a0400bc260c17a97f21/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+104            android:value="@integer/google_play_services_version" />
+104-->[com.google.android.gms:play-services-basement:18.1.0] /Users/julianabotelho/.gradle/caches/transforms-3/16d349276fb68a0400bc260c17a97f21/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+105    </application>
+106
+107</manifest>

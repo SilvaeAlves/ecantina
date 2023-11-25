@@ -1,0 +1,4 @@
+com.example.teste.test.app-androidTest-0 /Users/julianabotelho/StudioProjects/ecantina/build/app/generated/res/resValues/androidTest/debug
+com.example.teste.test.app-mergeDebugAndroidTestResources-1 /Users/julianabotelho/StudioProjects/ecantina/build/app/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.teste.test.app-mergeDebugAndroidTestResources-2 /Users/julianabotelho/StudioProjects/ecantina/build/app/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.teste.test.app-merged_res-3 /Users/julianabotelho/StudioProjects/ecantina/build/app/intermediates/merged_res/debugAndroidTest

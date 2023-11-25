@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.firebase.auth.test.firebase_auth-mergeDebugAndroidTestResources-11:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/julianabotelho/.gradle/caches/transforms-3/eeb14bffeb6c1862f46bc47c7f82bddf/transformed/browser-1.4.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,255,454,665",
+                        "endColumns": "199,198,210,201",
+                        "endOffsets": "250,449,660,862"
+                    }
+                },
+                {
+                    "source": "/Users/julianabotelho/.gradle/caches/transforms-3/05c3c8fe5ab1cbc1714b5db4e3f9e6d6/transformed/core-1.6.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "867",
+                        "endColumns": "203",
+                        "endOffsets": "1066"
+                    }
+                }
+            ]
+        }
+    ]
+}

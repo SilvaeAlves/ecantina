@@ -1,0 +1,4 @@
+#Fri Nov 24 19:50:02 BRT 2023
+base.0=/Users/julianabotelho/StudioProjects/ecantina/build/firebase_storage/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

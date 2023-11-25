@@ -1,0 +1,132 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.firebase.firestore.test" >
+4
+5    <uses-sdk
+5-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:5:15-41
+7        android:targetSdkVersion="19" />
+7-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:11:5-15:92
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:13:22-53
+13        android:label="Tests for io.flutter.plugins.firebase.firestore.test"
+13-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:15:22-90
+14        android:targetPackage="io.flutter.plugins.firebase.firestore.test" />
+14-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:12:22-88
+15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:10:5-79
+17-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:10:22-76
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:11:5-67
+18-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:11:22-64
+19
+20    <application
+20-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.6.0] /Users/julianabotelho/.gradle/caches/transforms-3/05c3c8fe5ab1cbc1714b5db4e3f9e6d6/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="true" >
+24        <uses-library android:name="android.test.runner" />
+24-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:8:9-60
+24-->/Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest888111817004751641.xml:8:23-57
+25
+26        <service
+26-->[:cloud_firestore] /Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+27            android:name="com.google.firebase.components.ComponentDiscoveryService"
+27-->[:cloud_firestore] /Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:8:18-89
+28            android:directBootAware="true"
+28-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+29            android:exported="false" >
+29-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:16:13-37
+30            <meta-data
+30-->[:cloud_firestore] /Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+31                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
+31-->[:cloud_firestore] /Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-134
+32                android:value="com.google.firebase.components.ComponentRegistrar" />
+32-->[:cloud_firestore] /Users/julianabotelho/StudioProjects/ecantina/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+33            <meta-data
+33-->[:firebase_core] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+34                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+34-->[:firebase_core] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
+35                android:value="com.google.firebase.components.ComponentRegistrar" />
+35-->[:firebase_core] /Users/julianabotelho/StudioProjects/ecantina/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+36            <meta-data
+36-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:17:13-19:85
+37                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+37-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:18:17-122
+38                android:value="com.google.firebase.components.ComponentRegistrar" />
+38-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:19:17-82
+39            <meta-data
+39-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:20:13-22:85
+40                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+40-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:21:17-111
+41                android:value="com.google.firebase.components.ComponentRegistrar" />
+41-->[com.google.firebase:firebase-firestore:24.9.1] /Users/julianabotelho/.gradle/caches/transforms-3/50fb24d08a610e154931067fe72434af/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:22:17-82
+42            <meta-data
+42-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/5ececaf99a56309c75b4d818b248a899/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+43                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+43-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/5ececaf99a56309c75b4d818b248a899/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+44                android:value="com.google.firebase.components.ComponentRegistrar" />
+44-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/5ececaf99a56309c75b4d818b248a899/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+45            <meta-data
+45-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+46                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+46-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+47                android:value="com.google.firebase.components.ComponentRegistrar" />
+47-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+48        </service>
+49
+50        <activity
+50-->[com.google.android.gms:play-services-base:18.0.1] /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+51            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+51-->[com.google.android.gms:play-services-base:18.0.1] /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+52            android:exported="false"
+52-->[com.google.android.gms:play-services-base:18.0.1] /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+53            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+53-->[com.google.android.gms:play-services-base:18.0.1] /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+54
+55        <provider
+55-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+56            android:name="com.google.firebase.provider.FirebaseInitProvider"
+56-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+57            android:authorities="io.flutter.plugins.firebase.firestore.test.firebaseinitprovider"
+57-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+58            android:directBootAware="true"
+58-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+59            android:exported="false"
+59-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+60            android:initOrder="100" />
+60-->[com.google.firebase:firebase-common:20.4.2] /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+61
+62        <uses-library
+62-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+63            android:name="androidx.window.extensions"
+63-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+64            android:required="false" />
+64-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+65        <uses-library
+65-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+66            android:name="androidx.window.sidecar"
+66-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+67            android:required="false" />
+67-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+68
+69        <meta-data
+69-->[com.google.android.gms:play-services-basement:18.1.0] /Users/julianabotelho/.gradle/caches/transforms-3/16d349276fb68a0400bc260c17a97f21/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+70            android:name="com.google.android.gms.version"
+70-->[com.google.android.gms:play-services-basement:18.1.0] /Users/julianabotelho/.gradle/caches/transforms-3/16d349276fb68a0400bc260c17a97f21/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+71            android:value="@integer/google_play_services_version" />
+71-->[com.google.android.gms:play-services-basement:18.1.0] /Users/julianabotelho/.gradle/caches/transforms-3/16d349276fb68a0400bc260c17a97f21/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+72    </application>
+73
+74</manifest>

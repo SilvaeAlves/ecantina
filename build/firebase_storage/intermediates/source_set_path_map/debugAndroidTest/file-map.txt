@@ -1,0 +1,13 @@
+io.flutter.plugins.firebase.storage.test.firebase_storage-core-1.6.0-0 /Users/julianabotelho/.gradle/caches/transforms-3/05c3c8fe5ab1cbc1714b5db4e3f9e6d6/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.storage.test.firebase_storage-jetified-window-java-1.0.0-beta04-1 /Users/julianabotelho/.gradle/caches/transforms-3/0973495a6cad72c4e31b28d97af7d985/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.storage.test.firebase_storage-jetified-play-services-basement-18.1.0-2 /Users/julianabotelho/.gradle/caches/transforms-3/16d349276fb68a0400bc260c17a97f21/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.storage.test.firebase_storage-jetified-play-services-base-18.0.1-3 /Users/julianabotelho/.gradle/caches/transforms-3/38eaaf5adfc82a93c1f9a84bda97cbe1/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.storage.test.firebase_storage-jetified-annotation-experimental-1.1.0-4 /Users/julianabotelho/.gradle/caches/transforms-3/4db2570f49acdeb40692b0949d9b99e3/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.storage.test.firebase_storage-jetified-firebase-common-20.4.2-5 /Users/julianabotelho/.gradle/caches/transforms-3/dfb6026c0685da79c0fdbd5775ca40e8/transformed/jetified-firebase-common-20.4.2/res
+io.flutter.plugins.firebase.storage.test.firebase_storage-jetified-window-1.0.0-beta04-6 /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.storage.test.firebase_storage-packaged_res-7 /Users/julianabotelho/StudioProjects/ecantina/build/firebase_core/intermediates/packaged_res/debug
+io.flutter.plugins.firebase.storage.test.firebase_storage-androidTest-8 /Users/julianabotelho/StudioProjects/ecantina/build/firebase_storage/generated/res/resValues/androidTest/debug
+io.flutter.plugins.firebase.storage.test.firebase_storage-mergeDebugAndroidTestResources-9 /Users/julianabotelho/StudioProjects/ecantina/build/firebase_storage/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+io.flutter.plugins.firebase.storage.test.firebase_storage-mergeDebugAndroidTestResources-10 /Users/julianabotelho/StudioProjects/ecantina/build/firebase_storage/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+io.flutter.plugins.firebase.storage.test.firebase_storage-merged_res-11 /Users/julianabotelho/StudioProjects/ecantina/build/firebase_storage/intermediates/merged_res/debugAndroidTest
+io.flutter.plugins.firebase.storage.test.firebase_storage-packaged_res-12 /Users/julianabotelho/StudioProjects/ecantina/build/firebase_storage/intermediates/packaged_res/debug

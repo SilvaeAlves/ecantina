@@ -1,0 +1,4 @@
+#Fri Nov 24 19:50:29 BRT 2023
+base.0=/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

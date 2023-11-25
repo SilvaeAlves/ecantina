@@ -1,0 +1,48 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.flutter_plugin_android_lifecycle.test" >
+4
+5    <uses-sdk
+5-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:5:15-41
+7        android:targetSdkVersion="16" />
+7-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:11:5-15:106
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:13:22-53
+13        android:label="Tests for io.flutter.plugins.flutter_plugin_android_lifecycle.test"
+13-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:15:22-104
+14        android:targetPackage="io.flutter.plugins.flutter_plugin_android_lifecycle.test" />
+14-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:12:22-102
+15
+16    <application
+16-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] /Users/julianabotelho/.gradle/caches/transforms-3/05c3c8fe5ab1cbc1714b5db4e3f9e6d6/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="true" >
+20        <uses-library android:name="android.test.runner" />
+20-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:8:9-60
+20-->/Users/julianabotelho/StudioProjects/ecantina/build/flutter_plugin_android_lifecycle/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest10585785376503728004.xml:8:23-57
+21        <uses-library
+21-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+22            android:name="androidx.window.extensions"
+22-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+23            android:required="false" />
+23-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+24        <uses-library
+24-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+25            android:name="androidx.window.sidecar"
+25-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+26            android:required="false" />
+26-->[androidx.window:window:1.0.0-beta04] /Users/julianabotelho/.gradle/caches/transforms-3/f69779991faf9b78f1ee1eda5535bc74/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+27    </application>
+28
+29</manifest>
